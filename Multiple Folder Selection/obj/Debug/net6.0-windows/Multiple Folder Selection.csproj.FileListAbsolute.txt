@@ -1,0 +1,17 @@
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\bin\Debug\net6.0-windows\Multiple Folder Selection.exe
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\bin\Debug\net6.0-windows\Multiple Folder Selection.deps.json
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\bin\Debug\net6.0-windows\Multiple Folder Selection.runtimeconfig.json
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\bin\Debug\net6.0-windows\Multiple Folder Selection.dll
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\bin\Debug\net6.0-windows\Multiple Folder Selection.pdb
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.csproj.AssemblyReference.cache
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple_Folder_Selection.Form1.resources
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.csproj.GenerateResource.cache
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.AssemblyInfoInputs.cache
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.AssemblyInfo.cs
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.csproj.CoreCompileInputs.cache
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.dll
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\refint\Multiple Folder Selection.dll
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.pdb
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\Multiple Folder Selection.genruntimeconfig.cache
+C:\Users\cuartasca\source\repos\Multiple Folder Selection\Multiple Folder Selection\obj\Debug\net6.0-windows\ref\Multiple Folder Selection.dll
